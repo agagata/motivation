@@ -1,4 +1,4 @@
-$(document).ready(function() {
+function generate(){
   $.getJSON("database/motivation.json", function(json) {
     var jsonLength = json["elements"].length;
     var randomElement = json["elements"][Math.floor(Math.random()*jsonLength)];
@@ -24,6 +24,20 @@ $(document).ready(function() {
       $("#content").html("<h1>Real programmers spend their day fighting</h1>");
     }
 
-    $("#description").html(randomElement["description"]);
+    if (typeof randomElement["description"] !== 'undefined') {
+      $("#description").html(randomElement["description"]);
+    }
+    else {
+      $("#description").html('');
+    }
+  });
+}
+
+
+$(document).ready(function() {
+  generate();
+
+  $(".fa-refresh").on( "click", function() {
+    generate();
   });
 });
