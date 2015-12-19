@@ -70,5 +70,9 @@
 		"type": "youtube",
 		"content": "https://www.youtube.com/embed/f4Mc-NYPHaQ",
 		"description": "Queen - I Want To Break Free"
+	}, {
+		"type": "quote",
+		"content": "Robić, nie sapać!",
+		"description": "Iwonen <i style=\"color:#ffb7b7;\" class=\"fa fa-heart\"></i>"
 	}]
 }
