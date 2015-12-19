@@ -7,12 +7,14 @@ If it helps any other human being, that's awesome! But honestly, I only had myse
 # How to contribute?
 
 If you want to add some quote/video/music, I'll be more than happy to merge your awesome proposals. ✨
+
 Take a look at database/motivation.json to see how the schema looks like.
 
 What you should know:
+
 1. Description is something that will appear in small letters underneath. It's optional for quotes.
 2. Links have to have description. If the link become inactive, it will be easier for me to replace it.
 3. Paste raw links to youtube. Make sure they are structured this way: [**https://www.youtube.com/embed/**ZTLAx3VDX7g][https://www.youtube.com/embed/ZTLAx3VDX7g].
 4. The same with music from spotify. Paste raw links and set type to "spotify".
-5. JS will take care of wrapping everything in html, so don't worry about it.
-6. You're great. 🙌
+5.  JS will take care of wrapping everything in html, so don't worry about it.
+6.  You're great. 🙌
