@@ -59,5 +59,16 @@
     "type": "youtube",
     "content": "https://www.youtube.com/embed/OPf0YbXqDm0",
     "description": "Mark Ronson - Uptown Funk ft. Bruno Mars"
+	}, {
+		"type": "quote",
+		"content": "Let's break some code!"
+	}, {
+		"type": "youtube",
+		"content": "https://www.youtube.com/embed/fJ9rUzIMcZQ",
+		"description": "Queen - Bohemian Rhapsody"
+	}, {
+		"type": "youtube",
+		"content": "https://www.youtube.com/embed/f4Mc-NYPHaQ",
+		"description": "Queen - I Want To Break Free"
 	}]
 }

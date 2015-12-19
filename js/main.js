@@ -3,6 +3,7 @@ function generate(){
     var jsonLength = json["elements"].length;
     var randomElement = json["elements"][Math.floor(Math.random()*jsonLength)];
 
+    //randomElement = json["elements"][18] //for testing purposes
     if (randomElement["type"] === "quote") {
       $("#content").html("<h1>" + randomElement["content"] + "</h1>");
     }
