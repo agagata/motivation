@@ -14,7 +14,7 @@ What you should know:
 
 1. Description is something that will appear in small letters underneath. It's optional for quotes.
 2. Links have to have description. If the link become inactive, it will be easier for me to replace it.
-3. Paste raw links to youtube. Make sure they are structured this way: [**https://www.youtube.com/embed/**ZTLAx3VDX7g][https://www.youtube.com/embed/ZTLAx3VDX7g].
+3. Paste raw links to youtube. Make sure they are structured this way: **https://www.youtube.com/embed/**ZTLAx3VDX7g.
 4. The same with music from spotify. Paste raw links and set type to "spotify".
 5.  JS will take care of wrapping everything in html, so don't worry about it.
 6.  You're great. 🙌
