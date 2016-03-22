@@ -1,0 +1,78 @@
+{
+	"elements":
+  [{
+		"type": "quote",
+		"content": "Do or do not. There is no trying."
+	}, {
+		"type": "image",
+		"content": "img/goats.jpg",
+		"description": "Probably no one told those goats that they cannot climb. It's not their fault, they didn't know it was impossible."
+  }, {
+    "type": "image",
+    "content": "http://image.slidesharecdn.com/gritandgrowthmindset-140828125421-phpapp02/95/research-on-success-grit-growth-mindset-and-the-marshmallow-test-5-638.jpg"
+	}, {
+    "type": "quote",
+    "content": "Get away from a computer for a bit<br/> and make yourself a nice cup of tea",
+    "description": "It's not an inspirational quote. It's me talking to you. Seriously, go."
+  }, {
+		"type": "youtube",
+		"content": "https://www.youtube.com/embed/l18oDfEpWhA",
+    "width": "420",
+		"description": "Admit it, Steve Ballmer chanting “developers! developers! developers!” will never cease to amaze."
+	}, {
+		"type": "quote",
+		"content": "Real programmers spend their day fighting"
+	}, {
+		"type": "image",
+		"content": "img/zen_things.jpg"
+	}, {
+		"type": "quote",
+		"content": "This may take some time and it’s ok."
+	}, {
+		"type": "quote",
+		"content": "Don’t be so hard on yourself"
+	}, {
+		"type": "spotify",
+		"content": "https://embed.spotify.com/?uri=spotify%3Atrack%3A26r7CDE1L39zxkN2VsGAJ1",
+		"description": "Hilltop Hoods - Pyramid Building"
+  }, {
+    "type": "youtube",
+    "content": "https://www.youtube.com/embed/ZTLAx3VDX7g",
+    "description": "Jimmy Fallon, The Roots & <i>Star Wars: The Force Awakens</i> Cast Sing <i>Star Wars Medley</i> (A Cappella)"
+  }, {
+    "type": "youtube",
+    "content": "https://www.youtube.com/embed/12zPU-8bsTE",
+    "description": "Gossip - Move in the Right Direction"
+  }, {
+    "type": "spotify",
+    "content": "https://embed.spotify.com/?uri=spotify%3Atrack%3A28wGX1hoLCRbBZbEqITvE3",
+    "description": "Marvin Gaye, Tammi Terrell - Ain't No Moutain High Enough"
+  }, {
+    "type": "spotify",
+    "content": "https://embed.spotify.com/?uri=spotify%3Atrack%3A662u318704xl9XpTDRpcPy",
+    "description": "Feist - Mushaboom"
+  }, {
+    "type": "youtube",
+    "content": "https://www.youtube.com/embed/SPlQpGeTbIE",
+    "description": "Junior Senior - Move Your Feet"
+  }, {
+    "type": "youtube",
+    "content": "https://www.youtube.com/embed/OPf0YbXqDm0",
+    "description": "Mark Ronson - Uptown Funk ft. Bruno Mars"
+	}, {
+		"type": "quote",
+		"content": "Let's break some code!"
+	}, {
+		"type": "youtube",
+		"content": "https://www.youtube.com/embed/fJ9rUzIMcZQ",
+		"description": "Queen - Bohemian Rhapsody"
+	}, {
+		"type": "youtube",
+		"content": "https://www.youtube.com/embed/f4Mc-NYPHaQ",
+		"description": "Queen - I Want To Break Free"
+	}, {
+		"type": "quote",
+		"content": "Robić, nie sapać!",
+		"description": "Iwonen <i style=\"color:#ffb7b7;\" class=\"fa fa-heart\"></i>"
+	}]
+}
